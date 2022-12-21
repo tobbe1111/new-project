@@ -8,5 +8,8 @@ int main(void)
     printf("hello git hub");
     // hej
     printf("new hello");
+
+    printf("hello :)");
+
     return 0;
 }
