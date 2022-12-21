@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    // ny kommentar
+    // ny kommentar i vsCode
     printf("hello world");
     
     printf("hello git hub");
