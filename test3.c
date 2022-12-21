@@ -6,5 +6,7 @@ int main(void)
 
     printf("and hello and goodbye");
 
+    printf("byebye");
+
     return 0;
 }
