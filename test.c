@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    // ny kommentar i vsCode
+    // detta är en splitterny kommentar
     printf("hello world");
     
     printf("hello git hub");
