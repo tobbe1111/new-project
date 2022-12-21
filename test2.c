@@ -2,8 +2,7 @@
 
 int main(void)
 {
-    printf("hello world 12345");
-
+    printf("hello hello");
 
     return 0;
 }
