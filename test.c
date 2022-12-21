@@ -7,5 +7,6 @@ int main(void)
     
     printf("hello git hub");
     // hej
+    printf("new hello");
     return 0;
 }
